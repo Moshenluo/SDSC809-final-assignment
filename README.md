@@ -147,19 +147,9 @@ Optuna 搜索得到的最优超参数已保存在 `best_params.json` 中。
 
 ---
 
-## 🎓 课程信息
-
-- **课程代码**: SDSC8009
-- **学期**: 2024-2025
-- **作业类型**: Final Assignment
-- **提交日期**: 2024
-
----
-
 ## 📧 联系方式
 
 - **作者**: 唐翊杰
-- **学号**: 2191146
 - **Email**: 1411795718@qq.com
 - **GitHub**: [@Moshenluo](https://github.com/Moshenluo)
 
