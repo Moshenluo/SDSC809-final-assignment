@@ -1,0 +1,40 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+
+# CatBoost temporary files
+catboost_info/
+catboost_training.json
+learn_error.tsv
+test_error.tsv
+time_left.tsv
+events.out.tfevents
+*.tmp
+
+# Optuna database files
+*.db
+optuna_results/*.db
+
+# Large data files (optional - uncomment if needed)
+# data/*.csv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
